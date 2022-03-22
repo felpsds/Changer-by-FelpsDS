@@ -1,0 +1,3 @@
+﻿  Source.cpp
+  LINK : /LTCG especificado mas sem geração de código; remova /LTCG do link da linha de comando para melhorar performance do vinculador
+  Skinchanger.vcxproj -> C:\Users\Felipe\Desktop\Curso\Projeto Felps\Release\skinchanger.exe
