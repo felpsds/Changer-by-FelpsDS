@@ -1,5 +1,6 @@
 # FelpsChanger
-Offsets devem estar desatualizado!
+Atualizado!!
+ultima atualizacao em: 11/02/22
 
 Atualize todos os offsets com o: https://github.com/frk1/hazedumper.
 Compilar em:
@@ -7,7 +8,7 @@ Compilar em:
 Executar como Administrador (Necessario para se conseguir ler e escrever a memória!)
 
 As facas/skins você muda no arquivo config.ini
-Toda vez que mudar, precisa abrir ele novamente! Ainda não possui tecla de atualização!!!
+Agora voce consegue atualizar as skins sem precisar reiniciar, para mudar agora so precisa apertar END!!
 
 A lista com as principais facas/skins estão no excel!
 
@@ -16,12 +17,17 @@ Discord: felpsds#4085
 
 Video funcionando: https://youtu.be/9a3yiDm_VYY
 
-Obs.: Eu sei que há algumas linhas de código que são inuteis e que ainda há muitas otimizações para serem feitas,
-mas estou sem tempo para isso!
+Obs.: Ele foi totalmente atualizado! Muitas otimizacoes feitas e nova funcao adicionada!
+
+Nao me responsabilizo por nenhum banimento ou qualquer coisa que voce fizer!
+Isso so foi feita por diversao e de forma educacional!
+
+Se divirta!
 ------------------------------------------------------------------------------------------------------------------------------------
 English version:
 
-Offsets are out of date!
+All updated and working!!
+Last update in: 11/04/22
 
 Update all offsets with: https://github.com/frk1/hazedumper.
 Compile in:
@@ -29,7 +35,8 @@ Compile in:
 Run as Administrator (Needed to run and write memory!)
 
 The knifes/skins are chageble in config.ini
-Every time that you change an Skin/Knife number, you need run app again! There´s no update key yet!!!
+Now you can update skins during the game, dont need re-open to update, just press END then when you respawn, 
+the skins will update!
 
 An list with most useble knifes/skins are in excel file!
 
@@ -38,5 +45,9 @@ Discord: felpsds#4085
 
 Video: https://youtu.be/9a3yiDm_VYY
 
-Obs.: I know that some line codes are useless and there´s some optimizations to do,
-but I´m to bussy right now to do it!
+Obs.: Full updated, so many optmization are made and an new feature added!!
+
+I am not responsible for any bans or anything you do!
+This was done for fun and educational purposes!
+
+Have fun!
