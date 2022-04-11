@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skinchanger", "Skinchanger\Skinchanger.vcxproj", "{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}.Debug|x64.ActiveCfg = Debug|x64
+		{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}.Debug|x64.Build.0 = Debug|x64
+		{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}.Debug|x86.Build.0 = Debug|Win32
+		{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}.Release|x64.ActiveCfg = Release|x64
+		{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}.Release|x64.Build.0 = Release|x64
+		{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}.Release|x86.ActiveCfg = Release|Win32
+		{29793B2D-CF6D-49E0-9089-E77FF4F3A9DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D6A318D-9E41-4C18-8878-0872C38D407C}
+	EndGlobalSection
+EndGlobal
